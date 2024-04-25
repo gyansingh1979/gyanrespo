@@ -18,7 +18,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 public class studentinfo {
-
+//abvksvnbkjv
 	private JFrame frame;
 	private JTextField t1;
 	private JTextField t2;
