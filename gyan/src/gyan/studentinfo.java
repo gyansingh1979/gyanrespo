@@ -1,7 +1,7 @@
 package gyan;
 
 import java.awt.EventQueue;
-
+//aaaaa miya bhaaaaiiiii
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import java.awt.Font;
